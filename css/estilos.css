@@ -1,0 +1,67 @@
+h2, h6{
+    font-weight: bold;
+}
+
+nav{
+    background-color: #85d4b7;
+    height: 100px;
+    color:#85d4b7;
+}
+
+#vegan{
+    background-color: #6dccaa;
+    height: 800px;
+
+}
+#footer{
+    background-color:  #6dccaa ;
+    height: 130px;
+    color:#fff;
+}
+#col_foot0{
+    text-align: left;
+}
+#col_foot2{
+    text-align: end;
+}
+#coaching{
+    background-color: #fff;
+    height: 800px;
+    color:gray;
+    padding-top: 3vw;
+}
+h2{
+    color:black;
+}
+
+#col0{
+    text-align: right;
+}
+#col1{
+    text-align: left;
+}
+#coaching hr{
+    width:3vw;
+}
+#eetcafe{
+    background-color: #ffcf3f;
+    height: 500px;
+}
+#eetcafe img{
+    max-height: 500px;
+}
+#winkel{
+    background-color: lightgrey;
+    height: 500px;
+    padding-top: 3vw;
+}
+#winkel img{
+    max-width:max-content;
+    max-height:max-content;
+}
+
+p{
+    font-size:2.3vh;
+
+
+}
