@@ -3,9 +3,10 @@ h2, h6{
 }
 
 nav{
-    background-color: #85d4b7;
     height: 100px;
-    color:#85d4b7;
+}
+.navbar{
+    background-color: #85d4b7;
 }
 
 #vegan{
@@ -26,9 +27,12 @@ nav{
 }
 #coaching{
     background-color: #fff;
-    height: 800px;
+    height: auto;
+    min-height: 800px;
     color:gray;
-    padding-top: 3vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    
 }
 h2{
     color:black;
