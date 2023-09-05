@@ -60,12 +60,9 @@ h2{
     padding-top: 3vw;
 }
 #winkel img{
-    max-width:max-content;
-    max-height:max-content;
-}
-
-p{
-    font-size:2.3vh;
-
+    width:min-content;
+    height: auto;
 
 }
+
+
